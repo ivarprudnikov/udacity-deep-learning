@@ -1,0 +1,7 @@
+.idea
+.ipynb*
+notMNIST*
+.DS_Store
+
+*.tar.gz
+*.pickle
